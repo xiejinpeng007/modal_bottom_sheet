@@ -3,10 +3,6 @@ description: 'Create awesome and powerful modal bottom sheets. Material, Cuperti
 version: 2.1.2
 homepage: 'https://github.com/jamesblasco/modal_bottom_sheet'
 
-environment:
-  sdk: ">=2.17.0 <3.0.0"
-  flutter: ">=3.0.0"
-
 dependencies:
   flutter:
     sdk: flutter
